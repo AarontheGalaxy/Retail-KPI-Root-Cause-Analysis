@@ -1,5 +1,7 @@
 # Retail KPI Root-Cause Analysis Pipeline
 
+[![CI](https://github.com/AarontheGalaxy/Retail-KPI-Root-Cause-Analysis/actions/workflows/ci.yml/badge.svg)](https://github.com/AarontheGalaxy/Retail-KPI-Root-Cause-Analysis/actions/workflows/ci.yml)
+
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
